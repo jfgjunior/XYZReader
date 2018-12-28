@@ -1,2 +1,0 @@
-# XYZ Reader
-This project has an object of making an app follow the google's material design patterns. Creating an beautiful app from a very borken one.
